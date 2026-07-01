@@ -1,4 +1,9 @@
 # Laboratório 01 - Reconhecimento de Rede e SSH
+Autor : Leonardo Henrique
+
+Área: Cybersecurity/ Segurança da informação
+
+Laboratório prático desenvolvido em ambiente virtual controlado.
 
 ## Objetivo
 
