@@ -55,7 +55,7 @@ Resultado:
 
 Identificação do endereço IP da máquina alvo.
 
-![Descoberta da rede](imagens/01-descoberta-rede.png)
+![Descoberta da rede](./01-descoberta-rede.png)
 
 ---
 
@@ -73,7 +73,7 @@ Resultado:
 
 Foi identificado o serviço SSH ativo na porta 22.
 
-![Análise Nmap](imagens/02-nmap-servicos.png)
+![Análise Nmap](./02-nmap-servicos.png)
 
 ---
 
@@ -89,7 +89,7 @@ ssh usuario@IP_DA_MAQUINA
 
 A conexão foi estabelecida com sucesso.
 
-![Conexão SSH](imagens/03-ssh-conexao.png)
+![Conexão SSH](./03-ssh-conexao.png)
 
 ---
 
