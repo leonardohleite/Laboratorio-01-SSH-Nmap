@@ -18,7 +18,7 @@ Realizar reconhecimento de rede utilizando Nmap e analisar um serviço SSH ativo
 - Linux
 
 ---
-# Problema inicial - Conectividade da máquina virtual
+ Problema inicial - Conectividade da máquina virtual
 
 Durante a preparação do laboratório foi identificado que a máquina Kali Linux não possuía acesso à rede, impedindo a atualização dos pacotes.
 
